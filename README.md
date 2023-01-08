@@ -1,1 +1,1 @@
-All repositories are here - https://github.com/jingyangzhenren-com
+Everything is here - https://github.com/jingyangzhenren-com
