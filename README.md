@@ -1,5 +1,5 @@
-| Item          | Link                                                           |
-| ------------- | ---------------------------------------------------------------|
-| Website       | https://jingyangzhenren.com                                    |
-| Repositories  | https://github.com/jingyangzhenren-com                         |
-| Activities    | https://github.com/orgs/jingyangzhenren-com/projects/1/views/1 |
+| Item          | Link                                                        |
+| ------------- | ------------------------------------------------------------|
+| Website       | https://shishifubing.com                                    |
+| Repositories  | https://github.com/shishifubing-com                         |
+| Activities    | https://github.com/orgs/shishifubing-com/projects/1/views/1 |
