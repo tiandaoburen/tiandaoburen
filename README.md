@@ -1,12 +1,4 @@
-<table>
-<tbody>
-  <tr>
-    <td>Repositories</td>
-    <td>https://github.com/shishifubing</td>
-  </tr>
-  <tr>
-    <td>Website</td>
-    <td>https://shishifubing.com</td>
-  </tr>
-</tbody>
-</table>
+---
+Repositories: https://github.com/shishifubing 
+Website: https://shishifubing.com
+---
